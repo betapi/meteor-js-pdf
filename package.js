@@ -9,4 +9,4 @@ Package.on_use(function(api){
       'client/lib/jspdf.js',
       'client/lib/jspdf.plugin.png_support.js'
     ], 'client');
-}
+});
