@@ -3,7 +3,7 @@
   "description": "jsPdf packaged for meteor",
   "homepage": "https://github.com/DerMambo/meteor-js-pdf",
   "author": "Manuel Schoebel (http://www.manuel-schoebel.com)",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "git": "https://github.com/DerMambo/meteor-js-pdf.git",
   "packages": {
 
