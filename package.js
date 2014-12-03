@@ -9,4 +9,5 @@ Package.on_use(function(api){
       'lib/jspdf.js',
       'lib/jspdf.plugin.png_support.js'
     ], 'client');
+    api.export("jsPDF", ['client', 'server']);
 });
